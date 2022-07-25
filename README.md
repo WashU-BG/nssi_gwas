@@ -10,26 +10,18 @@ To be posted as soon as a pre-print is made available
 ## File description
 
 **Please note that association results are with regard to Allele2.**
+The file contains the raw summary statistics which have not been filtered in any way. We provide EAF and imputation info incase those using the summary statistics wish to perform any filtering. 
 
 | Column | Description |
 | --- | --- |
 | CHR | chromosome |
 | POS | genome position |
 | rsid | rs ID for variant |
-| SNPID | variant ID |
 | Allele1 | allele 1 |
 | Allele2 | allele 2 |
-| AC_Allele2 | allele count of allele 2 |
 | AF_Allele2 | allele frequency of allele 2 |
 | imputationInfo | imputation info. If not in dosage/genotype input file, will output 1|
 | N | sample size |
 | BETA | effect size of allele 2 |
 | SE | standard error of BETA |
-| Tstat | score statistic of allele 2 |
 | p.value | p value (with SPA applied for binary traits) |
-| p.value.NA | p value when SPA is not applied (only for binary traits) |
-| Is.SPA.converge | whether SPA is converged or not (only for binary traits) |
-| varT | estimated variance of score statistic with sample relatedness incorporated |
-| varTstar | variance of score statistic without sample relatedness incorporated |
-| AF.Cases | allele frequency of allele 2 in cases (only for binary traits and if --IsOutputAFinCaseCtrl=TRUE) |
-| AF.Controls | allele frequency of allele 2 in controls (only for binary traits and if --IsOutputAFinCaseCtrl=TRUE) |
