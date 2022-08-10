@@ -1,10 +1,10 @@
 ## Phenotype description
-A direct measure of non-suicidal self-injury is not provided by the UK Biobank; however, we derived this phenotype using information from the UK Biobank’s on-line “Thoughts and Feelings” mental health questionnaire. The questionnaire asked individuals “*Have you deliberately harmed yourself, whether or not you meant to end your life?*” (Data-Field 20480, N = 137,969), and those who answered “Yes” (N = 5,924) were then asked in a follow-up question, “*Have you harmed yourself with the intention to end your life?*” (Data-Field 20483). Individuals who answered yes to both questions (N = 3,056), indicating self-harm with suicidal intent, were excluded from our analyses. After quality control (see below), we were left with a remaining sample size of 133,620 individuals (N cases = 2,845). GWAS was only performed in individuals with European genetic ancestry using the (genetic ancestry assignments returned by Pan-UK Biobank)[https://pan.ukbb.broadinstitute.org/docs/qc/index.html#ancestry-definitions].
+A direct measure of non-suicidal self-injury is not provided by the UK Biobank; however, we derived this phenotype using information from the UK Biobank’s on-line “Thoughts and Feelings” mental health questionnaire. The questionnaire asked individuals “*Have you deliberately harmed yourself, whether or not you meant to end your life?*” (Data-Field 20480, N = 137,969), and those who answered “Yes” (N = 5,924) were then asked in a follow-up question, “*Have you harmed yourself with the intention to end your life?*” (Data-Field 20483). Individuals who answered yes to both questions (N = 3,056), indicating self-harm with suicidal intent, were excluded from our analyses. After quality control (see below), we were left with a remaining sample size of 133,620 individuals (N cases = 2,845). GWAS was only performed in individuals with European genetic ancestry using the [genetic ancestry assignments returned by Pan-UK Biobank](https://pan.ukbb.broadinstitute.org/docs/qc/index.html#ancestry-definitions).
 
 ## Download Instructions
 Summary statistics are available to download via box using the link below. 
 
-(download)[https://wustl.box.com/s/t8ebaeooogrern2f1bsdsns5wr6he5ai] 
+[download](https://wustl.box.com/s/t8ebaeooogrern2f1bsdsns5wr6he5ai) 
 
 ## Citation for studies using this data
 To be posted as soon as a pre-print is made available
