@@ -4,7 +4,7 @@ A direct measure of non-suicidal self-injury is not provided by the UK Biobank; 
 ## Download Instructions
 Summary statistics are available to download via box using the link below. 
 
-[download](https://wustl.box.com/s/t8ebaeooogrern2f1bsdsns5wr6he5ai) 
+[download](https://wustl.box.com/s/t23oxqaysi69znerti1col34372pywi1) 
 
 ## Citation for studies using this data
 Please cite the following preprint:
