@@ -7,9 +7,9 @@ Summary statistics are available to download via box using the link below.
 [download](https://wustl.box.com/s/t23oxqaysi69znerti1col34372pywi1) 
 
 ## Citation for studies using this data
-Please cite the following preprint:
+Please cite the following publication:
 
-[Colbert, S. M.C., Mullins, N., Chan, G., Meyers, J. L., Schulman, J., Kuperman, S., ... & Johnson, E. C. (2022). Polygenic contributions to suicidal thoughts and behaviors in a sample ascertained for alcohol use disorders. medRxiv.](https://www.medrxiv.org/content/10.1101/2022.08.18.22278943v1)
+[Colbert, S., Mullins, N., Chan, G., Meyers, J. L., Schulman, J., Kuperman, S., ... & Johnson, E. C. (2023). Polygenic contributions to suicidal thoughts and behaviors in a sample ascertained for alcohol use disorders. Complex psychiatry, 9(1-4), 11-23.](https://karger.com/cxp/article/9/1-4/11/832656)
 
 ## File description
 
